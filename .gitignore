@@ -1,0 +1,17 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folders
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+
+# macOS / System files
+.DS_Store
+Thumbs.db
